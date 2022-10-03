@@ -4,7 +4,9 @@
 Created By : Thivin Anandh 
 
 
-Colleciton of mini Javascript games created using the p5.js
+Collection of mini Javascript games created using the p5.js
+
+**Click on the images to play the games online on your browser**
 
 ## 2048
 ---
